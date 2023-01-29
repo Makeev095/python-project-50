@@ -20,20 +20,20 @@
 
 **Сравнение двух плоских файлов: JSON.**
 
-https://asciinema.org/a/553929)
+[![asciicast](https://asciinema.org/a/553929.svg)](https://asciinema.org/a/553929)
 
 **Сравнение двух плоских файлов: YAML(YML).**
 
-https://asciinema.org/a/553932)
+[![asciicast](https://asciinema.org/a/553931.svg)](https://asciinema.org/a/553931)
 
 **Сравнение двух файлов c рекурсивной структурой: YAML(YML) или JSON.**
 
-https://asciinema.org/a/553933
+[![asciicast](https://asciinema.org/a/553933.svg)](https://asciinema.org/a/553933)
 
 Плоский формат отображения - cравнение двух файлов c рекурсивной структурой YAML(YML) или JSON.
 
-https://asciinema.org/a/553936
+[![asciicast](https://asciinema.org/a/553936.svg)](https://asciinema.org/a/553936)
 
 Вывод результата сравнения в формате JSON.
 
-https://asciinema.org/a/553939
+[![asciicast](https://asciinema.org/a/553939.svg)](https://asciinema.org/a/553939)

@@ -1,4 +1,4 @@
-from gendiff.dicts_diff import build_diff
+from gendiff.diff import build_diff
 from gendiff.parser import parse
 from gendiff.formaters import get_formatter
 from os.path import splitext
